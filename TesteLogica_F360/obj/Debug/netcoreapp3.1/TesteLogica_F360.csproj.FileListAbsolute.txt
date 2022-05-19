@@ -1,0 +1,28 @@
+C:\Users\mt100753\Documents\Teste Logico\TesteLogica_F360\TesteLogica_F360\bin\Debug\netcoreapp3.1\TesteLogica_F360.exe
+C:\Users\mt100753\Documents\Teste Logico\TesteLogica_F360\TesteLogica_F360\bin\Debug\netcoreapp3.1\TesteLogica_F360.deps.json
+C:\Users\mt100753\Documents\Teste Logico\TesteLogica_F360\TesteLogica_F360\bin\Debug\netcoreapp3.1\TesteLogica_F360.runtimeconfig.json
+C:\Users\mt100753\Documents\Teste Logico\TesteLogica_F360\TesteLogica_F360\bin\Debug\netcoreapp3.1\TesteLogica_F360.runtimeconfig.dev.json
+C:\Users\mt100753\Documents\Teste Logico\TesteLogica_F360\TesteLogica_F360\bin\Debug\netcoreapp3.1\TesteLogica_F360.dll
+C:\Users\mt100753\Documents\Teste Logico\TesteLogica_F360\TesteLogica_F360\bin\Debug\netcoreapp3.1\TesteLogica_F360.pdb
+C:\Users\mt100753\Documents\Teste Logico\TesteLogica_F360\TesteLogica_F360\obj\Debug\netcoreapp3.1\TesteLogica_F360.csproj.AssemblyReference.cache
+C:\Users\mt100753\Documents\Teste Logico\TesteLogica_F360\TesteLogica_F360\obj\Debug\netcoreapp3.1\TesteLogica_F360.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mt100753\Documents\Teste Logico\TesteLogica_F360\TesteLogica_F360\obj\Debug\netcoreapp3.1\TesteLogica_F360.AssemblyInfoInputs.cache
+C:\Users\mt100753\Documents\Teste Logico\TesteLogica_F360\TesteLogica_F360\obj\Debug\netcoreapp3.1\TesteLogica_F360.AssemblyInfo.cs
+C:\Users\mt100753\Documents\Teste Logico\TesteLogica_F360\TesteLogica_F360\obj\Debug\netcoreapp3.1\TesteLogica_F360.csproj.CoreCompileInputs.cache
+C:\Users\mt100753\Documents\Teste Logico\TesteLogica_F360\TesteLogica_F360\obj\Debug\netcoreapp3.1\TesteLogica_F360.dll
+C:\Users\mt100753\Documents\Teste Logico\TesteLogica_F360\TesteLogica_F360\obj\Debug\netcoreapp3.1\TesteLogica_F360.pdb
+C:\Users\mt100753\Documents\Teste Logico\TesteLogica_F360\TesteLogica_F360\obj\Debug\netcoreapp3.1\TesteLogica_F360.genruntimeconfig.cache
+C:\Users\mt100753\Documents\Teste Logico\Teste Logica - F360\TesteLogica_F360\bin\Debug\netcoreapp3.1\TesteLogica_F360.exe
+C:\Users\mt100753\Documents\Teste Logico\Teste Logica - F360\TesteLogica_F360\bin\Debug\netcoreapp3.1\TesteLogica_F360.deps.json
+C:\Users\mt100753\Documents\Teste Logico\Teste Logica - F360\TesteLogica_F360\bin\Debug\netcoreapp3.1\TesteLogica_F360.runtimeconfig.json
+C:\Users\mt100753\Documents\Teste Logico\Teste Logica - F360\TesteLogica_F360\bin\Debug\netcoreapp3.1\TesteLogica_F360.runtimeconfig.dev.json
+C:\Users\mt100753\Documents\Teste Logico\Teste Logica - F360\TesteLogica_F360\bin\Debug\netcoreapp3.1\TesteLogica_F360.dll
+C:\Users\mt100753\Documents\Teste Logico\Teste Logica - F360\TesteLogica_F360\bin\Debug\netcoreapp3.1\TesteLogica_F360.pdb
+C:\Users\mt100753\Documents\Teste Logico\Teste Logica - F360\TesteLogica_F360\obj\Debug\netcoreapp3.1\TesteLogica_F360.csproj.AssemblyReference.cache
+C:\Users\mt100753\Documents\Teste Logico\Teste Logica - F360\TesteLogica_F360\obj\Debug\netcoreapp3.1\TesteLogica_F360.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mt100753\Documents\Teste Logico\Teste Logica - F360\TesteLogica_F360\obj\Debug\netcoreapp3.1\TesteLogica_F360.AssemblyInfoInputs.cache
+C:\Users\mt100753\Documents\Teste Logico\Teste Logica - F360\TesteLogica_F360\obj\Debug\netcoreapp3.1\TesteLogica_F360.AssemblyInfo.cs
+C:\Users\mt100753\Documents\Teste Logico\Teste Logica - F360\TesteLogica_F360\obj\Debug\netcoreapp3.1\TesteLogica_F360.csproj.CoreCompileInputs.cache
+C:\Users\mt100753\Documents\Teste Logico\Teste Logica - F360\TesteLogica_F360\obj\Debug\netcoreapp3.1\TesteLogica_F360.dll
+C:\Users\mt100753\Documents\Teste Logico\Teste Logica - F360\TesteLogica_F360\obj\Debug\netcoreapp3.1\TesteLogica_F360.pdb
+C:\Users\mt100753\Documents\Teste Logico\Teste Logica - F360\TesteLogica_F360\obj\Debug\netcoreapp3.1\TesteLogica_F360.genruntimeconfig.cache
